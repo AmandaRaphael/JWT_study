@@ -1,0 +1,24 @@
+{
+  "name": "security-playing-with-bcrypt-AmandaRaphael",
+  "version": "1.0.0",
+  "description": "This assignment will allow you to play around with the `bcrypt` package by building a CLI application",
+  "main": "login.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/E07-2/security-playing-with-bcrypt-AmandaRaphael.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/E07-2/security-playing-with-bcrypt-AmandaRaphael/issues"
+  },
+  "homepage": "https://github.com/E07-2/security-playing-with-bcrypt-AmandaRaphael#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1"
+  }
+}
